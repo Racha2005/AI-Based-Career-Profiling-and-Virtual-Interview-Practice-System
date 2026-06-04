@@ -131,47 +131,29 @@ This helps users prepare effectively, receive constructive feedback, improve per
 
 ### Included Features
 
-📌 Resume Upload & Analysis
+🚀 Resume Upload & Analysis
 
-📌 Skill Extraction using NLP
+🚀 Skill Extraction using NLP
 
-📌 Career Profiling
+🚀 Career Profiling
 
-📌 Voice-Based Mock Interviews
+🚀 Voice-Based Mock Interviews
 
-📌 Text-Based Mock Interviews
+🚀 Text-Based Mock Interviews
 
-📌 AI-Powered Question Generation
+🚀 AI-Powered Question Generation
 
-📌 AI-Based Feedback Generation
+🚀 AI-Based Feedback Generation
 
-📌 Dashboard Analytics
+🚀 Dashboard Analytics
 
-📌 Career Guidance Chatbot
+🚀 Career Guidance Chatbot
 
-📌 Secure Authentication
+🚀 Secure Authentication
 
-📌 Interview History Tracking
+🚀 Interview History Tracking
 
-📌 Performance Monitoring
-
-### Future Enhancements
-
-🚀 Mobile Application
-
-🚀 Multi-Language Support
-
-🚀 Cloud Deployment
-
-🚀 Video Interview Recording
-
-🚀 Advanced Emotion Detection
-
-🚀 Enhanced Speech Analytics
-
-🚀 AI Learning Recommendations
-
-🚀 Industry-Specific Interview Modules
+🚀 Performance Monitoring
 
 ---
 
