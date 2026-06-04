@@ -395,21 +395,23 @@ User Registration/Login
 
 # 📊 Functional Modules Summary
 
-| Module | Status |
-|---------|---------|
-| User Authentication | ✅ Complete |
-| Resume Upload | ✅ Complete |
-| Resume Analysis | ✅ Complete |
-| Skill Extraction | ✅ Complete |
-| Career Profiling | ✅ Complete |
-| Voice Interview | ✅ Complete |
-| Text Interview | ✅ Complete |
-| AI Feedback | ✅ Complete |
-| Dashboard Analytics | ✅ Complete |
-| Career Guidance | ✅ Complete |
-| Chatbot Support | ✅ Complete |
-| PostgreSQL Integration | ✅ Complete |
-| JWT Security | ✅ Complete |
+| Module | Description |
+|----------|-------------|
+| 🔐 User Authentication | Secure user registration and login using JWT authentication and bcrypt password hashing. |
+| 📄 Resume Upload | Allows users to upload resumes in PDF or text format for analysis. |
+| 🧠 Resume Analysis | Extracts resume content and identifies skills, technologies, education, and qualifications. |
+| 🎯 Skill Extraction | Uses NLP techniques to detect relevant technical and professional skills from resumes. |
+| 🧑‍💼 Career Profiling | Analyzes user skills and interests to recommend suitable career paths and opportunities. |
+| 🎤 Voice Interview Module | Conducts AI-powered voice interviews using Speech-to-Text and Text-to-Speech technologies. |
+| 💬 Text Interview Module | Provides AI-generated text-based mock interview sessions for practice. |
+| 🤖 AI Feedback System | Evaluates responses and generates scores, strengths, weaknesses, and improvement suggestions. |
+| 📊 Dashboard Analytics | Displays interview history, performance trends, scores, and progress reports. |
+| 🧭 Career Guidance Module | Provides personalized career recommendations, learning paths, and future guidance. |
+| 💡 AI Chatbot Support | Assists users with interview preparation, career advice, and common queries. |
+| 🗄️ Database Management | Stores user profiles, interview records, feedback reports, and analytics securely in PostgreSQL. |
+| 🔒 Security Management | Protects user data through JWT authentication, bcrypt encryption, and secure API access. |
+| 👁️ Face Detection & Monitoring | Uses OpenCV to monitor user presence and attention during interview sessions. |
+| 📈 Performance Tracking | Maintains interview history and enables users to monitor improvement over time. |
 
 ---
 
