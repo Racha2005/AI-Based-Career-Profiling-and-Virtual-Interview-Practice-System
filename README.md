@@ -13,14 +13,7 @@
 ![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C2D91?style=for-the-badge)
 
-<br>
 
-![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
-![Degree](https://img.shields.io/badge/MCA-Final%20Year-blueviolet?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge)
-![Academic](https://img.shields.io/badge/Academic-Project-purple?style=for-the-badge)
-
-### 🎓 MCA Final Year Project
 
 An AI-powered platform that helps students and job seekers improve interview skills, gain career guidance, and track performance through intelligent evaluation and personalized feedback.
 
@@ -579,19 +572,8 @@ The platform not only improves technical and communication skills but also boost
 
 ---
 
-# 👩‍💻 Developed By
-
-### Rachana R Tunga
-
-Master of Computer Applications (MCA)
-
-Jain University
-
----
-
 <div align="center">
 
-## ⭐ MCA Final Year Project ⭐
 
 ### 💜 MockMate AI
 
